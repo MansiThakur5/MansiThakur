@@ -1,3 +1,8 @@
+![Banner](./githubb.png)
+<p align="center">
+  <img src="./githubb.png" alt="Banner" />
+</p>
+
 # Hey there 👋, I'm Mansi Thakur  
 
 ✨ A curious learner who loves turning ideas into reality through **code**.  
