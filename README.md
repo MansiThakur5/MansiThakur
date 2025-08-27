@@ -3,10 +3,8 @@
 <table>
 <tr>
 <td>
-# **Hey there 👋, I'm Mansi Thakur**
-<br>
+ Hey there 👋, I'm Mansi Thakur.
 
-  
 ✨ A curious learner who loves turning ideas into reality through **code**.
 
 💡 Currently diving deep into **Web Development** (React + TypeScript) & sharpening my **DSA skills**.  
