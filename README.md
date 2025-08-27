@@ -1,11 +1,30 @@
-![Banner](./githubb.png)
+<div align="center">
 
-# Hey there 👋, I'm Mansi Thakur  
+<table>
+<tr>
+<td>
+# **Hey there 👋, I'm Mansi Thakur**
+<br>
 
-✨ A curious learner who loves turning ideas into reality through **code**.  
+  
+✨ A curious learner who loves turning ideas into reality through **code**.
+
 💡 Currently diving deep into **Web Development** (React + TypeScript) & sharpening my **DSA skills**.  
+
 🌍 Dreaming of building projects that can make a real impact.  
+
 ⚡ Fun fact: I debug more than I code (but hey, that’s the life of a developer 😅).  
+
+</td>
+<td>
+
+<img src="./githubb.png" alt="Banner" width="300"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 ## 🚀 Tech Stack
